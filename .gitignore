@@ -1,0 +1,6 @@
+# ignore bin, build python and runtime directory
+*/bin/
+*/build/
+*/python/
+*/runtime/
+
